@@ -1,0 +1,2 @@
+ampy --port COM4 put check.py
+ampy --port COM3 put mpu_stream.py
