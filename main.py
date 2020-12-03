@@ -5,4 +5,4 @@ print('\nThe party is started!')
 
 import mpu_stream
 
-mpu_stream.send(1)
+mpu_stream.send(0.05)
